@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="relax_ng_exercise1/Quijas_5RNG.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <metaData>"Ballad of Booker T.," by <poet who="Hughes,L">Langston Hughes</poet>, <date
+        when="1941-06-01">June 1, 1941</date> <archive> Stamped by Library of Congress, covering lines 5-9</archive></metaData>
+    <heading>BALLAD OF BOOKER T.</heading> by <poet who="Hughes,L">Langston Hughes</poet>
+    <fullName name="Washington, Booker T.">Booker T.</fullName>
+    <poem>
+        <stanza>
+            <line num="1">Was a practical man</line>
+            <line num="2">He said, Till the soil</line>
+            <line num="3">And learn from the land</line>
+            <!--Line 4 and 5 represent Booker T. Washington, famous 1895 speech in Atlanta, Georgia, at the Cotton States and International Exposition-->
+            <line num="4">Let down your bucket</line>
+            <line num="5">Where you are.</line>
+            <line num="6">Your fate is here</line>
+            <line num="7">And not afar.</line>
+            <line num="8">To help yourself</line>
+            <line num="9">And your fellow man,</line>
+            <line num="10">Train your head</line>
+            <line num="11">Your heart, and your hand. For smartness alone's</line>
+            <line num="12">Surely not meet</line>
+            <line num="13">If you haven't at the same time Got something to eat</line>
+            <line num="14">Thus at Tuskegee</line>
+            <line num="15">He built a school</line>
+            <line num="16">With book-learning there</line>
+            <line num="17">And the workman's tool</line>
+            <line num="18">He started out</line>
+            <line num="19">In a simple way</line>
+            <line num="20">For yesterday</line>
+            <line num="21">Was not today</line>
+            <line num="22">Sometimes he had Compromise in his talk</line>
+            <line num="23">For a man must crawl</line>
+            <line num="24">Before he can walk</line>
+            <line num="25">And in Alabama in '85</line>
+            <line num="26">A joker was lucky</line>
+            <line num="27">To be alive</line>
+            <line num="28">But Booker T</line>
+            <line num="29">Was nobody's fool</line>
+            <line num="30">You may carve a dream</line>
+            <line num="31">With an humble tool</line>
+            <line num="32">The tallest tower</line>
+            <line num="33">Can tumble down</line>
+            <line num="34">If it be not rooted</line>
+            <line num="35">In solid ground</line>
+            <line num="36">So, being a far-seeing</line>
+            <line num="37">Page 1 of 2</line>
+            <line num="38">Education and Outreach Division</line>
+            <line num="39">Transcript</line>
+            <line num="40">Practical man</line>
+            <line num="41">He said, Train your head, Your heart, and your hand. Your fate is
+                here</line>
+            <line num="42">And not afar</line>
+            <line num="43">So let down your bucket Where you are</line>
+        </stanza>
+    </poem>
+    <metaData>
+        <poet who="Hughes,L">LANGSTON HUGHES</poet> Final Draft, <location where="Monterey, CA"
+            >Hollow Hills Farm</location>, Monterey, <state>California</state>, <date when="1941-06-01">June 1,
+                1941</date>. Citation: Drafts of Langston Hughes's poem "Ballad of Booker T.," <!--Is this date reading May 30th-June 1st?-->30 May–1
+        June 1941. (Langston Hughes Collection) <publiclibrary>Manuscript Division, Library of
+            Congress</publiclibrary>, <location where="USA">Washington, D.C</location>.</metaData>
+</root>

@@ -1,0 +1,35 @@
+start = root
+root = element root {mixed {metaData|heading|fullName|poet|poem}*}
+
+metaData = element metaData {mixed { date|archive|poet|location|state|publiclibrary}*}
+date = element date {when, text}
+when = attribute when {xsd:date}
+archive = element archive {text}
+
+heading = element heading {text}
+
+
+fullName = element fullName {name, text}
+name = attribute name {text}
+
+poet = element poet {who*, text}
+who = attribute who {text}
+
+location = element location {where, text}
+where = attribute where {text}
+
+state = element state {text}
+publiclibrary = element publiclibrary {text}
+
+poem = element poem {stanza}
+stanza = element stanza {line*}
+line = element line {num*, text}
+num = attribute num {text}
+
+
+
+
+
+
+
+
