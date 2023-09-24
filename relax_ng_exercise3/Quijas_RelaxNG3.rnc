@@ -1,0 +1,31 @@
+start = root
+root = element root {mixed {title| author| Rdate| updated| language| p | metaData}*}
+
+title = element title {level, text}
+level = attribute level {text}
+
+author = element author {text}
+
+Rdate = element Rdate {when, text}
+when = attribute when {xsd:date}
+
+updated = element updated {when, text}
+
+language = element language {text}
+
+p = element p {mixed {time | father| mother | henchman}*}
+
+time = element time {text}
+father = element father {text}
+mother = element mother {text}
+henchman = element henchman {text}
+
+metaData = element metaData {mixed{location| ref}*}
+location = element location {where, text}
+where = attribute where {text}
+
+ref = element ref {type, text}
+type = attribute type {xsd:anyURI}
+
+
+
