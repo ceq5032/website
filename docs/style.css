@@ -1,38 +1,12 @@
-
-header {
-    position: fixed; /* Fixed positioning to keep it at the top */
-    width: 100%; /* Full width */
-    height: 100px;
-    top: 0; /* Position it at the top */
-    background-color: #007bff; /* Change the background color as desired */
-    padding: 10px; /* Adjust padding as needed */
-    text-align: center; /* Center the text */
-    z-index: 1000; /* Ensure it's on top of other content */
-}
-
-header img {
-    max-width: 100%;
-    height: auto;
-}
-
-ul.htop {
-    margin-top: 70px; /* Adjust the margin to make space for the fixed header */
-    list-style-type: none;
-    padding: 0;
+body {
+    color: black;
+    font-family: "nikopol-regular";
     text-align: center;
-}
-
-ul.htop li {
-    display: inline;
-    margin: 0 10px;
-}
-
-ul.htop li a {
-    text-decoration: none;
-    color: #fff; /* Change the link color as desired */
-}
-
-ul.htop li.active {
-    font-weight: bold; /* Style for the active link */
+    background-image: url("pinkbackground.jpeg");
+    background-size: 100vw;
+    background-attachment: fixed;
+    letter-spacing: 1px;
+    font-size: 22px;
+    margin: 0;
 }
 
