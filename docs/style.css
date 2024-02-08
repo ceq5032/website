@@ -13,9 +13,9 @@ body {
 
 header {
     position: fixed; /* Fixed positioning to keep it at the top */
-    width: 100%; /* Full width */
+    width: 120%; /* Full width */
     top: 0; /* Position it at the top */
-    padding: 10px; /* Adjust padding as needed */
+    padding: 0px; /* Adjust padding as needed */
     text-align: center; /* Center the text */
     z-index: 1000; /* Ensure it's on top of other content */
 }
