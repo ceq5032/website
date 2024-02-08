@@ -16,7 +16,6 @@ header {
     width: 100%; /* Full width */
     height: 150px; /* Adjust the height as needed */
     top: 0; /* Position it at the top */
-    background-color: #007bff; /* Change the background color as desired */
     padding: 10px; /* Adjust padding as needed */
     text-align: center; /* Center the text */
     z-index: 1000; /* Ensure it's on top of other content */
