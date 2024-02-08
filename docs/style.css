@@ -14,7 +14,6 @@ body {
 header {
     position: fixed; /* Fixed positioning to keep it at the top */
     width: 100%; /* Full width */
-    height: 150px; /* Adjust the height as needed */
     top: 0; /* Position it at the top */
     padding: 10px; /* Adjust padding as needed */
     text-align: center; /* Center the text */
@@ -22,6 +21,7 @@ header {
 }
 
 header img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    max-width: 100%;
 }
