@@ -1,6 +1,6 @@
 body {
     color: black;
-    font-family: "nikopol-regular";
+    font-family: "fantasy";
     text-align: center;
     background-image: url("pinkbackground.jpeg");
     background-size: 100vw;
@@ -10,3 +10,19 @@ body {
     margin: 0;
 }
 
+
+header {
+    position: fixed; /* Fixed positioning to keep it at the top */
+    width: 100%; /* Full width */
+    height: 150px; /* Adjust the height as needed */
+    top: 0; /* Position it at the top */
+    background-color: #007bff; /* Change the background color as desired */
+    padding: 10px; /* Adjust padding as needed */
+    text-align: center; /* Center the text */
+    z-index: 1000; /* Ensure it's on top of other content */
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
