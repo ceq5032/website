@@ -15,7 +15,7 @@ ul.htop li {
 
 /* Styling for navigation links */
 ul.htop li a {
-    text-decoration: none;
+    text-decoration: wavy;
     color: black; /* Text color */
     padding: 10px; /* Padding around the links */
     border-radius: 5px; /* Rounded corners */
@@ -25,7 +25,7 @@ ul.htop li a {
 /* Styling for active navigation item */
 ul.htop li.active a {
     background-color: hotpink; /* Background color for active link */
-    color: black; /* Text color for active link */
+    color: white; /* Text color for active link */
 }
 
 /* Hover effect for navigation links */
