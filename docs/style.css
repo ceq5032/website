@@ -67,8 +67,8 @@ ul.htop li a {
 
 /* Styling for active navigation item */
 ul.htop li.active a {
-    background-color: #007bff; /* Background color for active link */
-    color: #fff; /* Text color for active link */
+    background-color: purple; /* Background color for active link */
+    color: pink; /* Text color for active link */
 }
 
 /* Hover effect for navigation links */
