@@ -2,7 +2,7 @@ body {
     color: black;
     font-family: "fantasy";
     text-align: center;
-    background-image: url("pinkbackground.jpg");
+    background-image: url("pinkbackground.png");
     background-size: 100vw;
     background-attachment: fixed;
     letter-spacing: 1px;
@@ -59,7 +59,7 @@ ul.htop li {
 /* Styling for navigation links */
 ul.htop li a {
     text-decoration: none;
-    color: #333; /* Text color */
+    color: black; /* Text color */
     padding: 10px; /* Padding around the links */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
@@ -67,13 +67,12 @@ ul.htop li a {
 
 /* Styling for active navigation item */
 ul.htop li.active a {
-    background-color: purple; /* Background color for active link */
-    color: pink; /* Text color for active link */
+    background-color: hotpink; /* Background color for active link */
+    color: black; /* Text color for active link */
 }
 
 /* Hover effect for navigation links */
 ul.htop li a:hover {
-    background-color: #f0f0f0; /* Background color on hover */
-    color: #007bff; /* Text color on hover */
+    background-color: hotpink; /* Background color on hover */
+    color: white; /* Text color on hover */
 }
-
