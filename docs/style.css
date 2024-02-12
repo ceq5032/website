@@ -39,7 +39,7 @@ body {
     font-family: "fantasy";
     text-align: center;
     background-image: url("pinkbackground.png");
-    background-size: 100vw;
+    background-size: cover;
     background-attachment: fixed;
     letter-spacing: 1px;
     font-size: 22px;
