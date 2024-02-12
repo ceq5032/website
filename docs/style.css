@@ -3,8 +3,8 @@ ul.htop {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    position: relative; /* Added */
-    z-index: 1001; /* Added */
+    position: relative;
+    z-index: 1001; /* Ensure navigation appears above the banner */
 }
 
 /* Styling for individual navigation items */
@@ -48,9 +48,9 @@ body {
 
 header {
     position: fixed; /* Fixed positioning to keep it at the top */
-    width: 120%; /* Full width */
+    width: 100%; /* Full width */
     top: 0; /* Position it at the top */
-    padding: 0px; /* Adjust padding as needed */
+    padding: 0; /* Adjust padding as needed */
     text-align: center; /* Center the text */
     z-index: 1000; /* Ensure it's on top of other content */
 }
@@ -77,4 +77,5 @@ header img {
     font-size: 18px; /* Adjust font size as needed */
     line-height: 1.6; /* Adjust line height as needed */
 }
+
 
