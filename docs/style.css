@@ -35,15 +35,13 @@ ul.htop li a:hover {
 }
 
 body {
-    color: black;
-    font-family: "fantasy";
-    text-align: center;
     background-image: url("pinkbackground.png");
     background-size: cover;
     background-attachment: fixed;
-    letter-spacing: 1px;
+    font-family:fantasy;
     font-size: 22px;
     margin: 0;
+    padding: 0;
 }
 
 header {
