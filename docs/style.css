@@ -1,4 +1,4 @@
-
+/* Resetting default styles for lists */
 ul.htop {
     list-style-type: none;
     padding: 0;
@@ -17,7 +17,7 @@ ul.htop li {
 ul.htop li a {
     text-decoration: none; /* Change text decoration to none */
     color: white; /* Text color */
-    padding: 10px; /* Padding around the links */
+    padding: 5px; /* Padding around the links */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
 }
@@ -78,6 +78,7 @@ header img {
     font-size: 18px; /* Adjust font size as needed */
     line-height: 1.6; /* Adjust line height as needed */
 }
+
 
 
 
