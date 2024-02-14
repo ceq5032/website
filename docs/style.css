@@ -9,7 +9,7 @@ ul.htop {
 
 /* Styling for individual navigation items */
 ul.htop li {
-    display: inline;
+    display: inline-block; /* Change display to inline-block */
     margin: 0 5px;
 }
 
@@ -17,7 +17,7 @@ ul.htop li {
 ul.htop li a {
     text-decoration: none; /* Change text decoration to none */
     color: white; /* Text color */
-    padding: 5px 5px; /* Padding around the links */
+    padding: 5px 15px; /* Adjust padding */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
 }
@@ -78,6 +78,7 @@ header img {
     font-size: 18px; /* Adjust font size as needed */
     line-height: 1.6; /* Adjust line height as needed */
 }
+
 
 
 
