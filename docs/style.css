@@ -1,11 +1,11 @@
 /* Styling for the name header */
 .name-header {
-    position: fixed;
+    position: absolute;
     top: 10px; /* Adjust top position as needed */
     left: 10px; /* Adjust left position as needed */
-    z-index: 1001; /* Ensure it's above other content */
     color: white; /* Make the text white */
 }
+
 
 
 
