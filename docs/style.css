@@ -10,7 +10,7 @@ ul.htop {
 /* Styling for individual navigation items */
 ul.htop li {
     display: inline;
-    margin: 0 5px;
+    margin: 0 10px;
 }
 
 /* Styling for navigation links */
