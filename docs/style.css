@@ -1,13 +1,14 @@
 /* Styling for the name header */
 .name-header {
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 10px; /* Adjust top position as needed */
+    left: 10px; /* Adjust left position as needed */
     padding: 10px;
-    background-color: transparent; /* Adjust background color and opacity as needed */
+    background-color: rgba(255, 255, 255, 0.7); /* Adjust background color and opacity as needed */
     z-index: 1001; /* Ensure it's above other content */
-    color: white;
+    color: white; /* Make the text white */
 }
+
 
 /* Additional styles for the name header */
 .name-header {
