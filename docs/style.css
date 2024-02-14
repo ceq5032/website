@@ -37,7 +37,7 @@ ul.htop li a:hover {
 /* Specific styling for the "index" link */
 ul.htop li:first-child a {
     color: white; /* Text color */
-    background-color: hotpink; /* Remove background color */
+    background-color: transparent; /* Remove background color */
 }
 
 /* Background styling for body */
