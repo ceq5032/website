@@ -4,6 +4,7 @@ ul.htop {
     padding: 0;
     margin: 0;
     position: relative;
+    text-align: right;
     z-index: 1001; /* Ensure navigation appears above the banner */
 }
 
