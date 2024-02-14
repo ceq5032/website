@@ -7,7 +7,11 @@ ul.htop {
     z-index: 1001; /* Ensure navigation appears above the banner */
 }
 
-
+/* Styling for individual navigation items */
+ul.htop li {
+    display: inline;
+    margin: 0 10px;
+}
 
 /* Styling for navigation links */
 ul.htop li a {
