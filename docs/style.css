@@ -7,18 +7,14 @@ ul.htop {
     z-index: 1001; /* Ensure navigation appears above the banner */
 }
 
-/* Styling for individual navigation items */
-ul.htop li {
-    display: inline;
-    margin: 0 10px;
-}
+
 
 /* Styling for navigation links */
 ul.htop li a {
     text-decoration: none; /* Change text decoration to none */
     color: white; /* Text color */
-    padding: 5px 10px; /* Padding around the links */
-    border-radius: 5px; /* Rounded corners */
+    padding: 5px 5px; /* Padding around the links */
+    border-radius: 10px; /* Rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
 }
 
