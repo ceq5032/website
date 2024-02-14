@@ -70,6 +70,7 @@ header img {
     border-radius: 20px; /* Border radius to create a rounded shape */
     padding: 20px; /* Add padding to provide space between the content and the container border */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a box shadow for depth */
+    padding-bottom: 100px;
 }
 
 /* Additional styles for the content within the container */
@@ -87,6 +88,13 @@ footer {
     text-align: center; /* Center align the content */
 }
 
+
+footer {
+    /* Existing styles */
+    position: fixed; /* Fixed positioning to keep it at the bottom */
+    width: 100%; /* Full width */
+    bottom: 0; /* Position it at the bottom */
+}
 
 
 
