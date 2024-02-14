@@ -36,7 +36,7 @@ ul.htop li a:hover {
 
 /* Background styling for body */
 body {
-    background-image: url("pinkbackground.png");
+    background-image: url("background.jpeg");
     background-size: cover;
     background-attachment: fixed;
     font-family: fantasy;
