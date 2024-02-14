@@ -84,7 +84,7 @@ header img {
 footer {
     background-color: hotpink; /* Background color for the footer */
     color: white; /* Text color */
-    padding: 20px; /* Padding around the content */
+    padding: 10px; /* Padding around the content */
     text-align: center; /* Center align the content */
 }
 
