@@ -34,12 +34,6 @@ ul.htop li a:hover {
     color: white; /* Text color on hover */
 }
 
-/* Specific styling for the "index" link */
-ul.htop li:first-child a {
-    color: white; /* Text color */
-    background-color: transparent; /* Remove background color */
-}
-
 /* Background styling for body */
 body {
     background-image: url("pinkbackground.png");
