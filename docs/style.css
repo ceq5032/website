@@ -1,10 +1,11 @@
 /* Styling for the name header */
 .name-header {
-    position: absolute;
-    top: 10px; /* Adjust top position as needed */
-    left: 10px; /* Adjust left position as needed */
-    color: white; /* Make the text white */
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    color: white;
 }
+
 
 
 /* Resetting default styles for lists */
