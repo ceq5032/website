@@ -1,3 +1,2 @@
 # website
-I am working with AI to develop a website. This is an experiment to see if AI can take my recommendations and create the code I am looking for. 
-This is just for fun, and I am not using this website for any academic purposes. 
+I am currently experimenting with AI to develop a website. I aim to test the AI's working knowledge of HTTP/CSS/JAVA, where it takes my recommendations and creates the code accordingly. However, I have noticed that the AI program is making a lot of errors, even when I try to correct it. Interestingly, the AI apologizes for being wrong, but it doesn't rectify the error. I am documenting my progress in the README file, and this experiment is purely for fun and not for any academic purposes.
